@@ -1,6 +1,7 @@
 # ENSF381-LAB5
+## Team Members
 
-| Name          | UCID          |
-| ------------- | ------------- |
-| Omar Ahmed    |  30181598     |
-| Aiden Lambert |  30195900     |
+| Name          |
+| ------------- |
+| Omar Ahmed    |
+| Aiden Lambert |
